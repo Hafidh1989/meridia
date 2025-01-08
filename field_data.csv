@@ -1,0 +1,5 @@
+Farmer ID,Farm Name,GPS Latitude,GPS Longitude,Region,Village,Farm Size (Ha),Deforestation Date
+Farmer-001,Green Valley,5.12345,-0.98765,Region A,Village X,15.5,2023-07-10
+Farmer-002,Blue Hill,6.54321,1.23456,Region B,Village Y,22.0,2022-05-15
+,Blue Hill,6.54321,1.23456,Region B,Village Y,22.0,2022-05-15
+Farmer-004,Sunrise Farm,4.98765,-1.67890,Region C,Village Z,10.8,2021-03-20
