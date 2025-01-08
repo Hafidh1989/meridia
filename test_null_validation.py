@@ -1,5 +1,4 @@
 import pandas as pd
-import pytest
 
 def test_read_csv():
     csv_file = 'field_data.csv'
